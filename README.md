@@ -24,6 +24,7 @@ If y represents the dependent variable and x the independent variable, this rela
 DEVELOPED BY: JEGATHEESWARI R
 
 REG NO:212223230092
+
 ```
 import numpy as np
 import math
@@ -61,7 +62,7 @@ plt.legend(['Regression Line','Data points'])
 ```
 
 # Output 
-![Screenshot 2024-11-07 181556](https://github.com/user-attachments/assets/32512e16-0325-4417-873d-550b986cec70)
+![Screenshot 2024-11-07 181556](https://github.com/user-attachments/assets/0a58a69a-7b74-44ef-8460-e8ce16f37031)
 
 
 # Result
